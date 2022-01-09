@@ -1,0 +1,6 @@
+# Python and Pytest ignores
+**/__pycache__
+
+# personal dev environment ignores
+# if you are creating local files (e.g. Makefile) add them to the list
+activate
